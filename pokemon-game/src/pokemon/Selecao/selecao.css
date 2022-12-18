@@ -1,0 +1,15 @@
+
+#batalha {
+    display: flex;
+    width: 1500px;
+    justify-content: space-around;
+}
+
+#poke{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    cursor: pointer;
+}
